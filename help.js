@@ -28,7 +28,7 @@ return `*OTHERS MENU*
  *≻* ${prefix}listgc
  *≻* ${prefix}listpc
  *≻* ${prefix}owner
- *≻* ${prefix}script
+  ${prefix}
  *≻* ${prefix}server
  *≻* ${prefix}buylimit
  *≻* ${prefix}cekuser
