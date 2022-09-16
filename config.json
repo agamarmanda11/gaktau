@@ -1,0 +1,20 @@
+{
+    "ownerNumber": "6288706941594@s.whatsapp.net", 
+    "ownerName": "Zero", 
+    "botName": "Zero",
+    "footer": "© ZERO | 2022", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": ":)",
+    "yootube": ":)",
+    "igCookie": "",
+ 
+    "limitCount": 100,
+    "limitGame": 100,
+    "gamewaktu": 100,
+    "sticker": {
+        "packname": "© Agam",
+        "author": "Armanda"
+    }
+}
